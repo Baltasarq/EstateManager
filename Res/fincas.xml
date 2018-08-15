@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<FINCAS>
+  <LUGAR ID="AMES" NOMBRE="AMES">
+    <LUGAR ID="EL_SANTO" NOMBRE="EL_SANTO">
+      <LUGAR ID="CEBREIROA" NOMBRE="CEBREIROA">
+        <FINCA ID="15_2_509_3152" NOMBRE="15_2_509_3152">
+          <OBSERVACIONES>Robledal</OBSERVACIONES>
+          <REFCATASTRAL>15002A509031520000BR</REFCATASTRAL>
+          <AREA>0000000.02460</AREA>
+          <VALOR>985.54</VALOR>
+        </FINCA>
+        <FINCA ID="15_2_509_3154" NOMBRE="15_2_509_3154">
+          <OBSERVACIONES>Dividido en dos parcelas a: robledal (99%), b: improductivo</OBSERVACIONES>
+          <REFCATASTRAL>15002A509031540000BX</REFCATASTRAL>
+          <AREA>0000000.03510</AREA>
+          <VALOR>1406.19</VALOR>
+        </FINCA>
+      </LUGAR>
+      <LUGAR ID="NORTE_CASA_SANTO" NOMBRE="NORTE_CASA_SANTO">
+        <LUGAR ID="CASTRELLON" NOMBRE="CASTRELLÓN">
+          <FINCA ID="15_2_50_372" NOMBRE="15_2_50_372">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050003720000ZU</REFCATASTRAL>
+            <AREA>0000000.03810</AREA>
+            <VALOR>1526.38</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_50_370" NOMBRE="15_2_50_370">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050003700000ZS</REFCATASTRAL>
+            <AREA>0000000.02550</AREA>
+            <VALOR>1021.59</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ESTIVADA_NOVA" NOMBRE="ESTIVADA_NOVA">
+          <FINCA ID="15_2_51_345" NOMBRE="15_2_51_345">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A051003450000ZZ</REFCATASTRAL>
+            <AREA>0000000.05780</AREA>
+            <VALOR>2315.61</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_429" NOMBRE="15_2_51_429">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004290000ZR</REFCATASTRAL>
+            <AREA>0000000.15380</AREA>
+            <VALOR>6161.61</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_438" NOMBRE="15_2_51_438">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004380000ZS</REFCATASTRAL>
+            <AREA>0000000.03610</AREA>
+            <VALOR>1446.26</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_433" NOMBRE="15_2_51_433">
+            <OBSERVACIONES>Pinar maderable (a) + camino (b), improductivo.</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004330000ZD</REFCATASTRAL>
+            <AREA>0000000.03050</AREA>
+            <VALOR>1221.91</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_430" NOMBRE="15_2_51_430">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004300000ZO</REFCATASTRAL>
+            <AREA>0000000.02870</AREA>
+            <VALOR>1149.79</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_359" NOMBRE="15_2_51_359">
+            <OBSERVACIONES>Pinar maderable (a) + camino (b), improductivo</OBSERVACIONES>
+            <REFCATASTRAL>15002A051003590000ZT</REFCATASTRAL>
+            <AREA>0000000.15230</AREA>
+            <VALOR>6101.51</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_437" NOMBRE="15_2_51_437">
+            <OBSERVACIONES>Pinar maderable (a) + camino improductivo (b)</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004370000ZE</REFCATASTRAL>
+            <AREA>0000000.00780</AREA>
+            <VALOR>312.49</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_434" NOMBRE="15_2_51_434">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A051004340000ZX</REFCATASTRAL>
+            <AREA>0000000.01560</AREA>
+            <VALOR>624.97</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="CODESEIRA_DE_ARRIBA" NOMBRE="CODESEIRA_DE_ARRIBA">
+          <FINCA ID="15_2_50_474" NOMBRE="15_2_50_474">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A050004740000ZY</REFCATASTRAL>
+            <AREA>0000000.01750</AREA>
+            <VALOR>701.09</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_50_470" NOMBRE="15_2_50_470">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A050004700000ZH</REFCATASTRAL>
+            <AREA>0000000.01490</AREA>
+            <VALOR>596.93</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_50_490" NOMBRE="15_2_50_490">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A050004900000ZR</REFCATASTRAL>
+            <AREA>0000000.05160</AREA>
+            <VALOR>3001.88</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="PINCELO" NOMBRE="PINCELO">
+          <FINCA ID="15_2_51_295" NOMBRE="15_2_51_295">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A051002950000ZP</REFCATASTRAL>
+            <AREA>0000000.02530</AREA>
+            <VALOR>1013.58</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="A_ESTIVADA_VELLA" NOMBRE="A_ESTIVADA_VELLA">
+          <FINCA ID="15_2_51_322" NOMBRE="15_2_51_322">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A051003220000ZY</REFCATASTRAL>
+            <AREA>0000000.06710</AREA>
+            <VALOR>2688.19</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="CODESEIRA" NOMBRE="CODESEIRA">
+          <FINCA ID="15_2_509_750" NOMBRE="15_2_509_750">
+            <OBSERVACIONES>Pradera</OBSERVACIONES>
+            <REFCATASTRAL>15002A509007500000BK</REFCATASTRAL>
+            <AREA>0000000.06980</AREA>
+            <VALOR>11249.34</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="CASTRALLON" NOMBRE="CASTRALLÓN">
+          <FINCA ID="15_2_509_765" NOMBRE="15_2_509_765">
+            <OBSERVACIONES>Prado</OBSERVACIONES>
+            <REFCATASTRAL>15002A509007650000BA</REFCATASTRAL>
+            <AREA>0000000.53140</AREA>
+            <VALOR>85643.27</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+      <LUGAR ID="CARRETERA_DE_OSEBE" NOMBRE="CARRETERA_DE_OSEBE">
+        <LUGAR ID="FONTENLA_DE_ADENTRO" NOMBRE="FONTENLA_DE_ADENTRO">
+          <FINCA ID="15_2_53_236" NOMBRE="15_2_53_236">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053002360000ZH</REFCATASTRAL>
+            <AREA>0000000.01120</AREA>
+            <VALOR>448.70</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ESTIVADA_DO_PAN" NOMBRE="ESTIVADA_DO_PAN">
+          <FINCA ID="15_2_53_752" NOMBRE="15_2_53_752">
+            <OBSERVACIONES>Tres subparcelas:
+(a) Noroeste de la finca, muy pequeño
+(c) pinar maderable
+(c) Camino (improductivo, atravesando la finca cerca del extremo noroeste).
+Un camino surge de la amplia curva que traza la carretera hacia el sudeste.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053007520000ZA</REFCATASTRAL>
+            <AREA>0000000.06310</AREA>
+            <VALOR>2527.94</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="FONTENLA" NOMBRE="FONTENLA">
+          <FINCA ID="15_2_53_249" NOMBRE="15_2_53_249">
+            <OBSERVACIONES>Pinar maderable excepto por la zona b de la finca, de 15 m.c., que es camino.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053002490000ZF</REFCATASTRAL>
+            <AREA>0000000.01590</AREA>
+            <VALOR>636.99</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_187" NOMBRE="15_2_53_187">
+            <OBSERVACIONES>Es el extremo sur-sureste de la finca, al quedar cortada por la carretera de Osebe.
+SixPAC ignora la carretera de Osebe.
+El extremo norte-noroeste es la finca 53 15187.
+Pinar maderable. Originalmente, la superficie era de 119 m.c.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053001870000ZF</REFCATASTRAL>
+            <AREA>0000000.00350</AREA>
+            <VALOR>140.22</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_15187" NOMBRE="15_2_53_15187">
+            <OBSERVACIONES>Es el extremo noroeste de la finca 53 187 al ser cortada por la carretera de Osebe.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053151870000ZT</REFCATASTRAL>
+            <AREA>0000000.00270</AREA>
+            <VALOR>108.17</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ESTIVADA_DO_MEDIO" NOMBRE="ESTIVADA_DO_MEDIO">
+          <FINCA ID="15_2_53_278" NOMBRE="15_2_53_278">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053002780000ZP</REFCATASTRAL>
+            <AREA>0000000.04750</AREA>
+            <VALOR>1902.97</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ESTIVADA_VELLA" NOMBRE="ESTIVADA_VELLA">
+          <FINCA ID="15_2_53_57" NOMBRE="15_2_53_57">
+            <OBSERVACIONES>Pinar maderable. Se perdió una parte por la construcción de la carretera de Osebe, hecho que SixPAC desconoce. Originalmente, era de una superficie de 65 m.c.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053000570000ZT</REFCATASTRAL>
+            <AREA>0000000.00430</AREA>
+            <VALOR>172.27</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ESPARILLE" NOMBRE="ESPARILLE">
+          <FINCA ID="15_2_53_704" NOMBRE="15_2_53_704">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053007040000ZD</REFCATASTRAL>
+            <AREA>0000000.03020</AREA>
+            <VALOR>1209.89</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_709" NOMBRE="15_2_53_709">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053007090000ZS</REFCATASTRAL>
+            <AREA>0000000.01360</AREA>
+            <VALOR>544.85</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="TOMBOS_DO_RAPOSO" NOMBRE="TOMBOS_DO_RAPOSO">
+          <FINCA ID="15_2_53_329" NOMBRE="15_2_53_329">
+            <OBSERVACIONES>En realidad, al pasar la carretera de Osebe esta finca está dividida en dos partes, la del extremo noreste es la 15239.
+SixPAC aparentemente no tiene en cuenta la carretera de Osebe.
+Antes de la carretera la superficie total era de 173 m.c.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053003290000ZU</REFCATASTRAL>
+            <AREA>0000000.00890</AREA>
+            <VALOR>356.56</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_338" NOMBRE="15_2_53_338">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053003380000ZG</REFCATASTRAL>
+            <AREA>0000000.02360</AREA>
+            <VALOR>945.47</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_15329" NOMBRE="15_2_53_15329">
+            <OBSERVACIONES>Es el extremo noreste de la finca 53 329, al ser partida por la carretera.
+Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053153290000ZZ</REFCATASTRAL>
+            <AREA>0000000.00290</AREA>
+            <VALOR>116.18</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="TRAS_FONTENLA" NOMBRE="TRAS_FONTENLA">
+          <FINCA ID="15_2_53_369" NOMBRE="15_2_53_369">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053003690000ZY</REFCATASTRAL>
+            <AREA>0000000.01520</AREA>
+            <VALOR>608.95</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_269" NOMBRE="15_2_53_269">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053002690000ZW</REFCATASTRAL>
+            <AREA>0000000.03660</AREA>
+            <VALOR>1466.29</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_262" NOMBRE="15_2_53_262">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053002620000ZI</REFCATASTRAL>
+            <AREA>0000000.02850</AREA>
+            <VALOR>1141.78</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+      <LUGAR ID="EIRAPEDRINA" NOMBRE="EIRAPEDRIÑA">
+        <LUGAR ID="CHAYAS_DE_ABAIXO" NOMBRE="CHAYAS_DE_ABAIXO">
+          <FINCA ID="15_2_53_459" NOMBRE="15_2_53_459">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053004590000ZH</REFCATASTRAL>
+            <AREA>0000000.08590</AREA>
+            <VALOR>3441.37</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="PEREIRINA" NOMBRE="PEREIRIÑA">
+          <FINCA ID="15_2_53_610" NOMBRE="15_2_53_610">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053006100000ZD</REFCATASTRAL>
+            <AREA>0000000.06540</AREA>
+            <VALOR>2620.09</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_661" NOMBRE="15_2_53_661">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053006610000ZG</REFCATASTRAL>
+            <AREA>0000000.05920</AREA>
+            <VALOR>2371.70</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_620" NOMBRE="15_2_53_620">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053006200000ZU</REFCATASTRAL>
+            <AREA>0000000.07540</AREA>
+            <VALOR>3020.71</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="REVOLTA_DA_BANDA" NOMBRE="REVOLTA_DA_BANDA">
+          <FINCA ID="15_2_53_676" NOMBRE="15_2_53_676">
+            <OBSERVACIONES>Es el extremo suroeste de la finca, ya que la carretera de Osebe la divide.
+No se refleja en la foto debido a que SixPAC ignora la carretera de Osebe.
+La superficie total antes de la carretera era de 311 m.c.
+</OBSERVACIONES>
+            <REFCATASTRAL>15002A053006760000ZI</REFCATASTRAL>
+            <AREA>0000000.02380</AREA>
+            <VALOR>953.49</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_15676" NOMBRE="15_2_53_15676">
+            <OBSERVACIONES>Es el extremo noreste de la finca 53 15676.
+Queda cortada por la carretera de Osebe.</OBSERVACIONES>
+            <REFCATASTRAL>15002A053156760000ZX</REFCATASTRAL>
+            <AREA>0000000.00260</AREA>
+            <VALOR>104.16</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="CHAN_DAS_CHAYAS" NOMBRE="CHAN_DAS_CHAYAS">
+          <FINCA ID="15_2_53_528" NOMBRE="15_2_53_528">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053005280000ZY</REFCATASTRAL>
+            <AREA>0000000.02300</AREA>
+            <VALOR>921.44</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_606" NOMBRE="15_2_53_606">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053006060000ZR</REFCATASTRAL>
+            <AREA>0000000.04240</AREA>
+            <VALOR>1698.65</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_555" NOMBRE="15_2_53_555">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053005550000ZU</REFCATASTRAL>
+            <AREA>0000000.02640</AREA>
+            <VALOR>1057.65</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_598" NOMBRE="15_2_53_598">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053005980000ZP</REFCATASTRAL>
+            <AREA>0000000.04540</AREA>
+            <VALOR>1818.84</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_53_558" NOMBRE="15_2_53_558">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A053005580000ZA</REFCATASTRAL>
+            <AREA>0000000.06730</AREA>
+            <VALOR>2696.20</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+      <LUGAR ID="GRANXA_DE_VILAS" NOMBRE="GRANXA_DE_VILAS">
+        <FINCA ID="15_2_50_690" NOMBRE="15_2_50_690">
+          <OBSERVACIONES>Pinarr maderable</OBSERVACIONES>
+          <REFCATASTRAL>15002A050006900000ZS</REFCATASTRAL>
+          <AREA>0000000.00730</AREA>
+          <VALOR>292.46</VALOR>
+        </FINCA>
+        <FINCA ID="15_2_50_699" NOMBRE="15_2_50_699">
+          <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+          <REFCATASTRAL>15002A050006990000ZQ</REFCATASTRAL>
+          <AREA>0000000.01370</AREA>
+          <VALOR>548.86</VALOR>
+        </FINCA>
+        <FINCA ID="15_2_50_670" NOMBRE="15_2_50_670">
+          <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+          <REFCATASTRAL>15002A050006700000ZQ</REFCATASTRAL>
+          <AREA>0000000.03110</AREA>
+          <VALOR>1245.94</VALOR>
+        </FINCA>
+      </LUGAR>
+      <LUGAR ID="DEVESINA" NOMBRE="DEVESIÑA">
+        <FINCA ID="15_2_50_597" NOMBRE="15_2_50_597">
+          <OBSERVACIONES>Obras de urbanización y jardinería, suelos sin edificar.
+</OBSERVACIONES>
+          <REFCATASTRAL>0142614NH3404S0001DO</REFCATASTRAL>
+          <AREA>0000000.01790</AREA>
+          <VALOR>2884.85</VALOR>
+        </FINCA>
+      </LUGAR>
+      <LUGAR ID="CASA_DEL_SANTO" NOMBRE="CASA_DEL_SANTO">
+        <OBSERVACIONES>La casa del Santo también posee un solar inmediatamente enfrente de la casa, y unas fincas al noreste (Lomeóns)</OBSERVACIONES>
+        <FINCA ID="15_2_51_467" NOMBRE="15_2_51_467">
+          <OBSERVACIONES>Alberga la propia casa del Santo. No aparece en el catastro como tal, sino como las fincas 12 y 13.</OBSERVACIONES>
+          <AREA>0000000.09090</AREA>
+          <VALOR>3641.68</VALOR>
+        </FINCA>
+        <FINCA ID="15_2_51_5006" NOMBRE="CASA_DO_SANTO">
+          <OBSERVACIONES>La casa del Santo aparece en el catastro como Ruina, solares 12 y 13.
+La Ref. Catastral recogida es la del solar 12: 9944812NH3494S0001BX
+Ref. Catastral Solar 13: 9944813NH2494S0001YP</OBSERVACIONES>
+          <REFCATASTRAL>9944812NH3494S0001BX</REFCATASTRAL>
+          <AREA>0000000.01540</AREA>
+          <VALOR>2481.94</VALOR>
+          <TIPO>URBANA</TIPO>
+          <DIRECCION>
+            <PISO>0</PISO>
+            <PUERTA>0</PUERTA>
+            <CALLE>Lugar de Ortoño</CALLE>
+            <NUMERO>0</NUMERO>
+            <POBLACION>Ortoño (Ames)</POBLACION>
+            <PROVINCIA>La Coruña</PROVINCIA>
+            <CODIGO_POSTAL>152280</CODIGO_POSTAL>
+          </DIRECCION>
+        </FINCA>
+        <FINCA ID="15_2_51_467(06)" NOMBRE="CAMPO_DO_SANTO">
+          <OBSERVACIONES>El campo do Santo no aparece en el SixPac, mientras que en catastro es el solar 06</OBSERVACIONES>
+          <REFCATASTRAL>0143206NH3404S0001EO</REFCATASTRAL>
+          <AREA>0000000.09730</AREA>
+          <VALOR>15681.38</VALOR>
+        </FINCA>
+        <LUGAR ID="LOMEONS" NOMBRE="LOMEÓNS">
+          <FINCA ID="15_2_51_454" NOMBRE="15_2_51_454">
+            <OBSERVACIONES>Maguxe. Solar 22.</OBSERVACIONES>
+            <REFCATASTRAL>0245422NH3404N0001AQ</REFCATASTRAL>
+            <AREA>0000000.03180</AREA>
+            <VALOR>1273.99</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_452" NOMBRE="15_2_51_452">
+            <OBSERVACIONES>Maguxe. Solar 20</OBSERVACIONES>
+            <REFCATASTRAL>0245421NH3404N0001WQ</REFCATASTRAL>
+            <AREA>0000000.01990</AREA>
+            <VALOR>797.24</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_51_450" NOMBRE="15_2_51_450">
+            <OBSERVACIONES>Maguxe. Solar 18.</OBSERVACIONES>
+            <REFCATASTRAL>0245418NH3404N0001WQ</REFCATASTRAL>
+            <AREA>0000000.01700</AREA>
+            <VALOR>681.06</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+    </LUGAR>
+    <LUGAR ID="BERTAMIRANS" NOMBRE="BERTAMIRÁNS">
+      <LUGAR ID="CARRETERA_DE_SANTIAGO" NOMBRE="CARRETERA_DE_SANTIAGO">
+        <LUGAR ID="ALDEA_NOVA" NOMBRE="ALDEA_NOVA">
+          <LUGAR ID="ESTIVADA_GRANDE" NOMBRE="ESTIVADA_GRANDE">
+            <FINCA ID="15_2_32_416" NOMBRE="15_2_32_416">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A032004160000ZK</REFCATASTRAL>
+              <AREA>0000000.01820</AREA>
+              <VALOR>1566.66</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_32_420" NOMBRE="15_2_32_420">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A032004200000ZR</REFCATASTRAL>
+              <AREA>0000000.03220</AREA>
+              <VALOR>2771.78</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_32_419" NOMBRE="15_2_32_419">
+              <OBSERVACIONES>(a) Matorral
+(b) Pinar maderable (57 m.c.)</OBSERVACIONES>
+              <REFCATASTRAL>15002A032004190000ZX</REFCATASTRAL>
+              <AREA>0000000.03870</AREA>
+              <VALOR>3331.30</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_32_415" NOMBRE="15_2_32_415">
+              <OBSERVACIONES>(a) Matorral 92 m.c.
+(b) Pinar maderable (19 m.c.)</OBSERVACIONES>
+              <REFCATASTRAL>15002A032004150000ZO</REFCATASTRAL>
+              <AREA>0000000.01140</AREA>
+              <VALOR>981.31</VALOR>
+            </FINCA>
+          </LUGAR>
+          <LUGAR ID="TRES_FONTINAS" NOMBRE="TRES_FONTIÑAS">
+            <FINCA ID="15_2_32_320" NOMBRE="15_2_32_320">
+              <OBSERVACIONES>(a) Matorral: 382 m.c.
+(b) Pinar maderable: 162 m.c.</OBSERVACIONES>
+              <REFCATASTRAL>15002A032003200000ZM</REFCATASTRAL>
+              <AREA>0000000.05440</AREA>
+              <VALOR>4682.77</VALOR>
+            </FINCA>
+          </LUGAR>
+        </LUGAR>
+        <LUGAR ID="XIBADEIRA" NOMBRE="XIBADEIRA">
+          <FINCA ID="15_2_33_1256" NOMBRE="15_2_33_1256">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A033012560000ZY</REFCATASTRAL>
+            <AREA>0000000.01520</AREA>
+            <VALOR>608.95</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_33_409" NOMBRE="15_2_33_409">
+            <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+            <REFCATASTRAL>15002A033004090000ZB</REFCATASTRAL>
+            <AREA>0000000.03310</AREA>
+            <VALOR>1326.07</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="GASOLINERA" NOMBRE="GASOLINERA">
+          <LUGAR ID="CAMPOS_DE_AGRELOS" NOMBRE="CAMPOS_DE_AGRELOS">
+            <FINCA ID="15_2_33_959" NOMBRE="15_2_33_959">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A033009590000ZP</REFCATASTRAL>
+              <AREA>0000000.16180</AREA>
+              <VALOR>6482.11</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_1198" NOMBRE="15_2_33_1198">
+              <OBSERVACIONES>Pinar maderable. No aparece en SixPac. </OBSERVACIONES>
+              <REFCATASTRAL>15002A033011980000ZL</REFCATASTRAL>
+              <AREA>0000000.01710</AREA>
+              <VALOR>685.07</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_998" NOMBRE="15_2_33_998">
+              <OBSERVACIONES>Pinar maderable (en Carballoso). No aparece en SixPac.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033009980000ZM</REFCATASTRAL>
+              <AREA>0000000.01790</AREA>
+              <VALOR>717.12</VALOR>
+            </FINCA>
+          </LUGAR>
+          <LUGAR ID="LAXE_GRANDE" NOMBRE="LAXE_GRANDE">
+            <FINCA ID="15_2_32_343" NOMBRE="15_2_32_343">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A032003430000ZG</REFCATASTRAL>
+              <AREA>0000000.02840</AREA>
+              <VALOR>1137.77</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_32_360" NOMBRE="15_2_32_360">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A032003600000ZX</REFCATASTRAL>
+              <AREA>0000000.04860</AREA>
+              <VALOR>1947.04</VALOR>
+            </FINCA>
+          </LUGAR>
+          <LUGAR ID="PEREIRINA_DE_AFORA" NOMBRE="PEREIRIÑA_DE_AFORA">
+            <FINCA ID="15_2_33_969" NOMBRE="15_2_33_969">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A033009690000ZR</REFCATASTRAL>
+              <AREA>0000000.00840</AREA>
+              <VALOR>336.52</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_181" NOMBRE="15_2_33_181">
+              <OBSERVACIONES>(a) Matorral 555 m.c.
+(b) Pinar maderable 198 m.c.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033001810000ZE</REFCATASTRAL>
+              <AREA>0000000.07730</AREA>
+              <VALOR>3096.83</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_179" NOMBRE="15_2_33_179">
+              <OBSERVACIONES>(a) Matorral 532 m.c.
+(b) Pinar maderable 159</OBSERVACIONES>
+              <REFCATASTRAL>15002A033001790000ZS</REFCATASTRAL>
+              <AREA>0000000.07100</AREA>
+              <VALOR>2844.44</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_178" NOMBRE="15_2_33_178">
+              <OBSERVACIONES>Pequeña finca eliminada parcialmente por la carretera Santiago - Noia. Pinar maderable.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033001780000ZE</REFCATASTRAL>
+              <AREA>0000000.00160</AREA>
+              <VALOR>64.10</VALOR>
+            </FINCA>
+          </LUGAR>
+          <LUGAR ID="COTONS" NOMBRE="COTÓNS">
+            <FINCA ID="15_2_33_215" NOMBRE="15_2_33_215">
+              <OBSERVACIONES>(a) Matorral 128 m.c.
+(b) Pinar maderable 108 m.c.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033002150000ZH</REFCATASTRAL>
+              <AREA>0000000.02370</AREA>
+              <VALOR>949.48</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_1036" NOMBRE="15_2_33_1036">
+              <OBSERVACIONES>Aparece cortada en SixPAC, debido a una laguna de datos, que la corta en dos.
+Allí aparece como de: 224 m.c.
+Pinar maderable.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033010360000ZP</REFCATASTRAL>
+              <AREA>0000000.09760</AREA>
+              <VALOR>3910.10</VALOR>
+            </FINCA>
+            <FINCA ID="15_2_33_216" NOMBRE="15_2_33_216">
+              <OBSERVACIONES>(a) Matorral 100 m.c.
+(b) Pinar maderable 78 m.c.</OBSERVACIONES>
+              <REFCATASTRAL>15002A033002160000ZW</REFCATASTRAL>
+              <AREA>0000000.01780</AREA>
+              <VALOR>713.11</VALOR>
+            </FINCA>
+          </LUGAR>
+        </LUGAR>
+        <LUGAR ID="CORTAFUEGOS" NOMBRE="CORTAFUEGOS">
+          <LUGAR ID="A_ESTIVADA_DO_MEDIO" NOMBRE="A_ESTIVADA_DO_MEDIO">
+            <FINCA ID="15_2_33_701" NOMBRE="15_2_33_701">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A033007010000ZY</REFCATASTRAL>
+              <AREA>0000000.01670</AREA>
+              <VALOR>669.04</VALOR>
+            </FINCA>
+          </LUGAR>
+          <LUGAR ID="A_ROZA" NOMBRE="A_ROZA">
+            <FINCA ID="15_2_32_175" NOMBRE="15_2_32_175">
+              <OBSERVACIONES>Pinar maderable</OBSERVACIONES>
+              <REFCATASTRAL>15002A032001750000ZU</REFCATASTRAL>
+              <AREA>0000000.06550</AREA>
+              <VALOR>2624.09</VALOR>
+            </FINCA>
+          </LUGAR>
+        </LUGAR>
+        <LUGAR ID="COSTA_DO_XEIXO" NOMBRE="COSTA_DO_XEIXO">
+          <OBSERVACIONES>No aparece en SixPac</OBSERVACIONES>
+          <FINCA ID="15_2_33_484" NOMBRE="15_2_33_484">
+            <OBSERVACIONES>Pinar maderable. No aparece en SixPac.</OBSERVACIONES>
+            <REFCATASTRAL>15002A033004840000ZL</REFCATASTRAL>
+            <AREA>0000000.01340</AREA>
+            <VALOR>536.84</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_33_527" NOMBRE="15_2_33_527">
+            <OBSERVACIONES>Pinar maderable. No aparece en SixPac.</OBSERVACIONES>
+            <REFCATASTRAL>15002A033005270000ZJ</REFCATASTRAL>
+            <AREA>0000000.02050</AREA>
+            <VALOR>821.28</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_33_532" NOMBRE="15_2_33_532">
+            <OBSERVACIONES>No aparece en SixPac. Pinar maderable en paraje de Porrodelo</OBSERVACIONES>
+            <REFCATASTRAL>15002A033005320000ZS</REFCATASTRAL>
+            <AREA>0000000.04000</AREA>
+            <VALOR>1602.50</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_33_533" NOMBRE="15_2_33_533">
+            <OBSERVACIONES>No aparece en SixPac. Pinar maderable en paraje de Tallo do Picho</OBSERVACIONES>
+            <REFCATASTRAL>15002A033005330000ZZ</REFCATASTRAL>
+            <AREA>0000000.04520</AREA>
+            <VALOR>1810.82</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+      <LUGAR ID="LAPIDO" NOMBRE="LAPIDO">
+        <LUGAR ID="AGRELOS" NOMBRE="AGRELOS">
+          <FINCA ID="15_2_33_848" NOMBRE="15_2_33_848">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A033008480000ZE</REFCATASTRAL>
+            <AREA>0000000.01540</AREA>
+            <VALOR>616.96</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="FIEITAL" NOMBRE="FIEITAL">
+          <FINCA ID="15_2_50_102" NOMBRE="15_2_50_102">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050001020000ZK</REFCATASTRAL>
+            <AREA>0000000.00190</AREA>
+            <VALOR>76.12</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_50_101" NOMBRE="15_2_50_101">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050001010000ZO</REFCATASTRAL>
+            <AREA>0000000.01010</AREA>
+            <VALOR>404.63</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="ALTO_DA_FURANCA" NOMBRE="ALTO_DA_FURANCA">
+          <FINCA ID="15_2_33_755" NOMBRE="15_2_33_755">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A033007550000ZS</REFCATASTRAL>
+            <AREA>0000000.02270</AREA>
+            <VALOR>909.42</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_33_769" NOMBRE="15_2_33_769">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A033007690000ZL</REFCATASTRAL>
+            <AREA>0000000.00990</AREA>
+            <VALOR>396.62</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="PARESPINA" NOMBRE="PARESPIÑA">
+          <FINCA ID="15_2_50_38" NOMBRE="15_2_50_38">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050000380000ZR</REFCATASTRAL>
+            <AREA>0000000.02430</AREA>
+            <VALOR>973.52</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_50_23" NOMBRE="15_2_50_23">
+            <OBSERVACIONES>Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A050000230000ZA</REFCATASTRAL>
+            <AREA>0000000.02200</AREA>
+            <VALOR>881.37</VALOR>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+      <LUGAR ID="CASTRIGO" NOMBRE="CASTRIGO">
+        <LUGAR ID="FONDINOS" NOMBRE="FONDIÑOS">
+          <FINCA ID="15_2_61_513" NOMBRE="15_2_61_513">
+            <OBSERVACIONES>(a) Matorral 195 m.c.
+(b) Pinar maderable 178 m.c.</OBSERVACIONES>
+            <REFCATASTRAL>15002A061005130000ZL</REFCATASTRAL>
+            <AREA>0000000.03840</AREA>
+            <VALOR>1538.40</VALOR>
+          </FINCA>
+        </LUGAR>
+        <LUGAR ID="NOVAL" NOMBRE="NOVAL">
+          <OBSERVACIONES>Contiene la casa del Noval, en Castrigo</OBSERVACIONES>
+          <FINCA ID="15_2_57_223" NOMBRE="15_2_57_223">
+            <OBSERVACIONES>Finca principal del Noval</OBSERVACIONES>
+            <REFCATASTRAL>15002A057002230000ZO</REFCATASTRAL>
+            <AREA>0000000.34640</AREA>
+            <VALOR>45466.58</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_57_224" NOMBRE="15_2_57_224">
+            <OBSERVACIONES>Pertenece a otro dueño, excepto la parte final hacia el este.
+Pinar maderable.</OBSERVACIONES>
+            <REFCATASTRAL>15002A057002240000ZK</REFCATASTRAL>
+            <AREA>0000000.14580</AREA>
+            <VALOR>19136.91</VALOR>
+          </FINCA>
+          <FINCA ID="15_2_57_014" NOMBRE="CASA_DEL_NOVAL">
+            <OBSERVACIONES>La casa del Noval.
+La finca es la 5002 segun SixPac y la 014 según el catastro.
+Construido en 1996.
+</OBSERVACIONES>
+            <REFCATASTRAL>001301400NH24F0001SJ</REFCATASTRAL>
+            <AREA>0000000.02710</AREA>
+            <VALOR>3556.99</VALOR>
+            <TIPO>URBANA</TIPO>
+            <DIRECCION>
+              <PISO>0</PISO>
+              <PUERTA>0</PUERTA>
+              <CALLE>
+              </CALLE>
+              <NUMERO>0</NUMERO>
+              <POBLACION>Castrigo (Ames)</POBLACION>
+              <PROVINCIA>La Coruña</PROVINCIA>
+              <CODIGO_POSTAL>0</CODIGO_POSTAL>
+            </DIRECCION>
+          </FINCA>
+        </LUGAR>
+      </LUGAR>
+    </LUGAR>
+  </LUGAR>
+  <LUGAR ID="SANTIAGO" NOMBRE="SANTIAGO_DE_COMPOSTELA">
+    <OBSERVACIONES>Ciudad de Santiago de Compostela, conteniendo dos pisos.</OBSERVACIONES>
+    <LUGAR ID="PARTE_NUEVA_SANTIAGO" NOMBRE="ENSANCHE_DE_SANTIAGO_DE_COMPOSTELA">
+      <OBSERVACIONES>Zona nueva, alrededor de la Plaza Roja</OBSERVACIONES>
+      <FINCA ID="CARRERA_DEL_CONDE_20A" NOMBRE="CARRERA_DEL_CONDE_20A">
+        <OBSERVACIONES>Piso 1º del número 20A de la Carrera del Conde, en la parte nueva.
+Construcción de 1964.
+</OBSERVACIONES>
+        <REFCATASTRAL>7073617NH3477C0003ZY</REFCATASTRAL>
+        <AREA>0000000.00820</AREA>
+        <VALOR>223852.09</VALOR>
+        <TIPO>URBANA</TIPO>
+        <DIRECCION>
+          <PISO>1</PISO>
+          <PUERTA>1</PUERTA>
+          <CALLE>Carrera del Conde</CALLE>
+          <NUMERO>20</NUMERO>
+          <POBLACION>Santiago</POBLACION>
+          <PROVINCIA>La Coruña</PROVINCIA>
+          <CODIGO_POSTAL>0</CODIGO_POSTAL>
+        </DIRECCION>
+      </FINCA>
+    </LUGAR>
+    <LUGAR ID="CASCO_VIEJO" NOMBRE="CASCO_HISTORICO_DE_SANTIAGO">
+      <OBSERVACIONES>Casco histórico de Santiago de Compostela</OBSERVACIONES>
+      <FINCA ID="CASA_CALLE_VILLAR_41" NOMBRE="CASA_CALLE_VILLAR_41">
+        <OBSERVACIONES>Casa antigua, restaurada, en el casco histórico de Santiago de Compostela. Segundo piso.
+El inmueble se construyó en 1920.
+</OBSERVACIONES>
+        <REFCATASTRAL>7376933NH3477E0001BX</REFCATASTRAL>
+        <AREA>0000000.01040</AREA>
+        <VALOR>283909.96</VALOR>
+        <TIPO>URBANA</TIPO>
+        <DIRECCION>
+          <PISO>2</PISO>
+          <PUERTA>2</PUERTA>
+          <CALLE>Villar</CALLE>
+          <NUMERO>41</NUMERO>
+          <POBLACION>Santiago de Compostela</POBLACION>
+          <PROVINCIA>La Coruña</PROVINCIA>
+          <CODIGO_POSTAL>0</CODIGO_POSTAL>
+        </DIRECCION>
+      </FINCA>
+    </LUGAR>
+  </LUGAR>
+</FINCAS>

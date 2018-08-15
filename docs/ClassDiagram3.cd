@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="GestorFincas.AcercaDe" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AcercaDe.cs</FileName>
+      <HashCode>kIACACgAACAgCAWgAAGAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Area" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Area.cs</FileName>
+      <HashCode>AAAKAECCAAAAAACEAAQAoAAEAAQAAAAAAAAAAABAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.BaseDatos" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BaseDatos.cs</FileName>
+      <HashCode>AMA4EAKJceAgQAocsAEEAAUYQCKAYINhAFCkWYITCRQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Busqueda" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Busqueda.cs</FileName>
+      <HashCode>SAAAIIAACAAAAACEAAAoAACBCAABBAQBAABYAACoAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.EjecucionBusqueda" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EjecucionBusqueda.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.UserException" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.InternalException" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.BusquedaErroneaException" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.NoMemException" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.DBException" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.DBRegistroDuplicado" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.DBNoAbiertaException" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.DBSintaxisXmlException" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exceps.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.ExploradorLugar" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ExploradorLugar.cs</FileName>
+      <HashCode>AAAAAACACgQEQAgUgEICAAAAAACAAAABAAAECACQEhA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GestorFincas.Finca" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Finca.cs</FileName>
+      <HashCode>AABAkAgCBAAAYEAECgAAAQgEAAAABAQAAAAAgCAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.GeneradorCD" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GeneradorCD.cs</FileName>
+      <HashCode>ACIAAAAAAAIAABEAAIACAAIIAEAQgQAAgAAEAAAwQAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Informe" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Informe.cs</FileName>
+      <HashCode>AABAAAAAAAIAAACGAIAAgICEEACAAAAAAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Lugar" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Lugar.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAMAAAAAACAAAAAAAAAAAAAACAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.MainForm" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainForm.cs</FileName>
+      <HashCode>j8xQEAUAAAg0kGEGIwKBFPEDIpCAAEKAIkEkr+ZwAgs=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Observable" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>observable.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAQABAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.ResultadosBusqueda" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ResultadosBusqueda.cs</FileName>
+      <HashCode>AAAAAAABACAAAAAAAACAAIgCIAmYgAAAAmAABQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.SplashInit" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>splashinit.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.UICreador" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UICreador.cs</FileName>
+      <HashCode>QqCAAAAgBaAAQBCAEACAQAFCIMA4AAAAEHAAAQEBBIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.UIDatos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>uidatos.cs</FileName>
+      <HashCode>8yCCAAkAAUEAQBGCEBwACABSYAAkAJBSMiBwCAABFoA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GestorFincas.UIEliminador" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UIEliminador.cs</FileName>
+      <HashCode>AgAAAAAgAKAgABEQAACAAAACAAAYAEAAAGQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.UILugar" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UILugar.cs</FileName>
+      <HashCode>AgAAAABAACEAAAAAAAyAAABCAAAEAAAAACAQCUAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.UINodoFinca" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UINodoFinca.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.VentanaBusqueda" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>VentanaBusqueda.cs</FileName>
+      <HashCode>AgCAAAAAACAAAAAQAACAAAADAAAYAAAAEGAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.VisorImagen" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>VisorImagen.cs</FileName>
+      <HashCode>AAAAIAAAACAAAAAAAASAAAACAAEgAgAAIAAAQABAABE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.VisorInforme" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>VisorInforme.cs</FileName>
+      <HashCode>DAAAABAAACAgAAAAAACAAAAiAEA4AAIAAHAIAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Properties.Resources" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEQAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestorFincas.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GestorFincas.Observador" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>observador.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

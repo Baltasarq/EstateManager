@@ -1,0 +1,192 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <ProjectGuid>{FD85585B-F590-49E2-8516-359F22C616CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EstateManager</RootNamespace>
+    <AssemblyName>gf</AssemblyName>
+    <StartupObject>EstateManager.UI.Ppal</StartupObject>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationIcon>Res\gf32.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>052704474BACFE29F2AFE9A28EE1B40F1021297A</ManifestCertificateThumbprint>
+    <TargetCulture>es-ES</TargetCulture>
+    <ProductName>gF - Gestor de Fincas</ProductName>
+    <PublisherName>baltasarq</PublisherName>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType></DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Res\abrir.png" />
+    <EmbeddedResource Include="Res\borrar.png" />
+    <EmbeddedResource Include="Res\buscar.png" />
+    <EmbeddedResource Include="Res\configurar.png" />
+    <EmbeddedResource Include="Res\eliminar.png" />
+    <EmbeddedResource Include="Res\finca.png" />
+    <EmbeddedResource Include="Res\generaInforme.png" />
+    <EmbeddedResource Include="Res\gf16.ico" />
+    <EmbeddedResource Include="Res\gf32.ico" />
+    <EmbeddedResource Include="Res\guardar.png" />
+    <EmbeddedResource Include="Res\imprimir.png" />
+    <EmbeddedResource Include="Res\logo.png" />
+    <EmbeddedResource Include="Res\lugar.png" />
+    <EmbeddedResource Include="Res\nuevo.png" />
+    <EmbeddedResource Include="Res\selec.png" />
+    <EmbeddedResource Include="Res\splash.png" />
+    <EmbeddedResource Include="Res\urbana.png" />
+    <EmbeddedResource Include="Res\vcrrewnd.png" />
+    <Compile Include="UI\AboutCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AboutView.cs" />
+    <EmbeddedResource Include="UI\old_resx_designer_files\AcercaDe.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\MainForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\ResultadosBusqueda.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\splashinit.resx" />
+    <Compile Include="Core\Area.cs" />
+    <Compile Include="Core\Database.cs" />
+    <Compile Include="Core\Search.cs" />
+    <Compile Include="Core\SearchExecution.cs" />
+    <Compile Include="Core\Exceps.cs" />
+    <Compile Include="Core\Estate.cs" />
+    <Compile Include="Core\CDGenerator.cs" />
+    <Compile Include="Core\Report.cs" />
+    <Compile Include="Core\Place.cs" />
+    <Compile Include="UI\MainFormCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Core\Observable.cs" />
+    <Compile Include="Core\Observer.cs" />
+    <Compile Include="UI\SplashInit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ParentChangerCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ParentChangerView.cs" />
+    <Compile Include="UI\NameChangerCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\NameChangerView.cs" />
+    <Compile Include="UI\CreatorCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CreatorView.cs" />
+    <Compile Include="UI\EliminatorCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EliminatorView.cs" />
+    <Compile Include="UI\EstateExplorer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlaceExplorerCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlaceExplorerView.cs" />
+    <Compile Include="UI\ChangeRemarksCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ChangeRemarksView.cs" />
+    <Compile Include="UI\AreaTreeNode.cs" />
+    <Compile Include="UI\FilterWindowCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FilterWindowView.cs" />
+    <Compile Include="UI\ImageViewerCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ImageViewerView.cs" />
+    <Compile Include="UI\ReportViewerCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ReportViewerView.cs" />
+    <EmbeddedResource Include="UI\old_resx_designer_files\UICambiaPadre.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\UICambioNombre.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\UICreador.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\UIEliminador.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\uifinca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\UILugar.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\UIModificaObs.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\VentanaBusqueda.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\VisorImagen.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\old_resx_designer_files\VisorInforme.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Core\ExtensionMethods.cs" />
+    <Compile Include="UI\FilterResultsWindowView.cs" />
+    <Compile Include="UI\Ppal.cs" />
+    <Compile Include="UI\MainFormView.cs" />
+    <Compile Include="UI\Explorer.cs" />
+    <Compile Include="UI\PlaceExplorerEngine.cs" />
+    <Compile Include="UI\FilterResultsWindowCore.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Res\fincas.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UI\" />
+    <Folder Include="UI\old_resx_designer_files\" />
+    <Folder Include="Core\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
