@@ -3,12 +3,12 @@ using System.Globalization;
 using System.Collections.Generic;
 
 namespace EstateManager.Core {
-	public class Area : Observable {
-        public Area(Place padre, String i, String n)
+	public class Area : Observable, IEquatable<Area> {
+        public Area(Place parent, String id, String name)
         {
-            this.owner = padre;
-            this.id = NormalizeName( i );
-            this.name = SemiNormalizeName( n );
+            this.owner = parent;
+            this.id = NormalizeName( id );
+            this.name = SemiNormalizeName( name );
         }
         
         public static string FormatForPresentation(string n)
@@ -74,6 +74,27 @@ namespace EstateManager.Core {
             toret = toret.Replace( 'Ç', 'C' );
 
             return toret;
+        }
+        
+        public override int GetHashCode()
+        {
+            return this.Id.GetHashCode();
+        }
+        
+        public override bool Equals(object obj)
+        {
+            bool toret = false;
+            
+            if (obj is Area area) {
+                toret = ( this.Id == area.Id );
+            }
+            
+            return toret;
+        }
+        
+        public bool Equals(Area a)
+        {
+            return this.Equals( (object) a );
         }
 
 		public override String ToString()
